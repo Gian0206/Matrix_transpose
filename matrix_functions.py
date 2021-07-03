@@ -6,7 +6,7 @@ def transpose(matrix: list) -> list:
     is done following the formal definition
     *NO LIST METHODS ALLOWED (.transpose(), .zip() etc...)*
     
-    For further documentatior check the REEDME.me
+    For further documentatior check the REEDME.md
     in the repository folder
     """
     output = list() # The A' matrix
