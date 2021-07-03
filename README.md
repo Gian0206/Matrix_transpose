@@ -1,6 +1,6 @@
 # Matrix_transpose
 ___transpose___
-The purpose of this fuction is educational
+The purpose of this fuction is educational.
 It show in his code how a matrix transpose
 is done following the formal definition
 
@@ -26,11 +26,11 @@ is done following the formal definition
     Notice how new rows are the old columns and vice versa:
     A[i][j] == A'[j][i]
 
- For practical uses this fuction is USELESS
+ For practical uses this fuction is USELESS.
  There are more efficient methods to matrix tranpose.
 
  One of these methods is implemented on a fuction of
- the python package "numpy"
+ the python package "numpy".
  Can be called as numpy.transpose();
 
  Another list usefull method than can matrix transpose is a
