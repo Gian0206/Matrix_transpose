@@ -3,6 +3,7 @@ ___transpose___
 The purpose of this fuction is educational
 It show in his code how a matrix transpose
 is done following the formal definition
+
 *NO LIST METHODS ALLOWED (.transpose(), .zip() etc...)*
 
     Formally, the transpose of a matrix A mxn is a A' matrix nxm
