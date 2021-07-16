@@ -1,12 +1,13 @@
 import matrix_functions
-from random import randint as rint
+import random
 
 # A random matrix is going to be generated
-n_rows = rint(2,5)
-n_colums = rint(2,5)
+n_rows = random.randit(2,5)
+n_colums = random.randint(2,5)
 
-numbers = []
-row = []
+# numbers = list() *% #Pass for later adding 
+# row = list() *% #Pass for later
+
 for i in range(n_rows):
     for j in range(n_colums):
         row.append(rint(0,10))
