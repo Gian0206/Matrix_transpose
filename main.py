@@ -23,4 +23,3 @@ transposed = matrix_functions.transpose(numbers)
 print("\n"+"Transpose:")
 for row in transposed:
     print(row)
-
